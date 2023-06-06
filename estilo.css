@@ -1,0 +1,16 @@
+body, #opciones, #opciones-btn{
+    display: grid;
+    place-content: center;
+}
+
+#botones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 3vh;
+    padding: 0px 15vw 0px 15vw;
+}
+
+h1, input{
+    text-align: center;
+}
